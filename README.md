@@ -6,7 +6,7 @@ This project implements a Convolutional Neural Network (CNN) using TensorFlow an
 
 ## Dataset
 
-The dataset can be gotten from (here)[https://www.dropbox.com/scl/fi/ppd8g3d6yoy5gbn960fso/dataset.zip?rlkey=lqbqx7z6i9hp61l6g731wgp4v&e=2&st=kz9n3c8w&dl=0]
+The dataset can be gotten from [here](https://www.dropbox.com/scl/fi/ppd8g3d6yoy5gbn960fso/dataset.zip?rlkey=lqbqx7z6i9hp61l6g731wgp4v&e=2&st=kz9n3c8w&dl=0)
 
 - **Training Set:** Contains images of cats and dogs used to train the model.
 - **Test Set:** Contains images used to evaluate model performance.
